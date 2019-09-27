@@ -1,4 +1,4 @@
-# DesignPattern
+# Design Pattern Collection Implementation
 
 ## Strategy Pattern
 
