@@ -12,3 +12,10 @@ as to which in a family of algorithms to use.
 The observer pattern is a software design pattern in which an object, called the subject, 
 maintains a list of its dependents, called observers, and notifies them automatically of 
 any state changes, usually by calling one of their methods.
+
+## Decorator Pattern
+
+In object-oriented programming, the decorator pattern is a design pattern that allows 
+behavior to be added to an individual object, dynamically, without affecting the behavior 
+of other objects from the same class.
+
