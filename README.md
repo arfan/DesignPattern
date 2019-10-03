@@ -60,3 +60,9 @@ values for the method parameters.
 In software engineering, the adapter pattern is a software design pattern (also known as wrapper, 
 an alternative naming shared with the decorator pattern) that allows the interface of an existing 
 class to be used as another interface.
+
+## Facade Pattern
+
+The facade pattern (also spelled façade) is a software-design pattern commonly used in object-
+oriented programming. Analogous to a facade in architecture, a facade is an object that serves as 
+a front-facing interface masking more complex underlying or structural code.
