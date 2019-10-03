@@ -54,3 +54,9 @@ In object-oriented programming, the command pattern is a behavioral design patte
 object is used to encapsulate all information needed to perform an action or trigger an event at 
 a later time. This information includes the method name, the object that owns the method and 
 values for the method parameters.
+
+## Adapter Pattern
+
+In software engineering, the adapter pattern is a software design pattern (also known as wrapper, 
+an alternative naming shared with the decorator pattern) that allows the interface of an existing 
+class to be used as another interface.
