@@ -47,3 +47,10 @@ In software engineering, the singleton pattern is a software design pattern that
 the instantiation of a class to one "single" instance. This is useful when exactly one object 
 is needed to coordinate actions across the system. The term comes from the mathematical concept 
 of a singleton.
+
+## Command Pattern
+
+In object-oriented programming, the command pattern is a behavioral design pattern in which an 
+object is used to encapsulate all information needed to perform an action or trigger an event at 
+a later time. This information includes the method name, the object that owns the method and 
+values for the method parameters.
