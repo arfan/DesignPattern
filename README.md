@@ -40,3 +40,10 @@ factories, since it uses only the generic interfaces of their products. This pat
 separates the details of implementation of a set of objects from their general usage and 
 relies on object composition, as object creation is implemented in methods exposed in the 
 factory interface.
+
+## Singleton Pattern
+
+In software engineering, the singleton pattern is a software design pattern that restricts 
+the instantiation of a class to one "single" instance. This is useful when exactly one object 
+is needed to coordinate actions across the system. The term comes from the mathematical concept 
+of a singleton.
