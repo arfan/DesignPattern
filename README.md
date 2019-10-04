@@ -66,3 +66,10 @@ class to be used as another interface.
 The facade pattern (also spelled façade) is a software-design pattern commonly used in object-
 oriented programming. Analogous to a facade in architecture, a facade is an object that serves as 
 a front-facing interface masking more complex underlying or structural code.
+
+## Proxy Pattern
+
+In computer programming, the proxy pattern is a software design pattern. A proxy, in its most 
+general form, is a class functioning as an interface to something else. The proxy could interface 
+to anything: a network connection, a large object in memory, a file, or some other resource that 
+is expensive or impossible to duplicate.
