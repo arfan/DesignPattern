@@ -1,6 +1,6 @@
 package xyz.kmbmicro.designpattern.proxypattern;
 
-class ProxyExample {
+public class ProxyPattern {
     /**
      * Test method
      */
