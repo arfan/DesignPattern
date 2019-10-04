@@ -73,3 +73,10 @@ In computer programming, the proxy pattern is a software design pattern. A proxy
 general form, is a class functioning as an interface to something else. The proxy could interface 
 to anything: a network connection, a large object in memory, a file, or some other resource that 
 is expensive or impossible to duplicate.
+
+## Bridge Pattern
+
+The bridge pattern is a design pattern used in software engineering that is meant to "decouple an 
+abstraction from its implementation so that the two can vary independently", introduced by the 
+Gang of Four. The bridge uses encapsulation, aggregation, and can use inheritance to separate 
+responsibilities into different classes.
