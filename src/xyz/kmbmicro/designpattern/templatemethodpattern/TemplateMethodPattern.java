@@ -1,0 +1,11 @@
+package xyz.kmbmicro.designpattern.templatemethodpattern;
+
+public class TemplateMethodPattern {
+    public static void main(String[] args) {
+        OrderProcessTemplate netOrder = new NetOrder();
+        netOrder.processOrder(true);
+        System.out.println();
+        OrderProcessTemplate storeOrder = new StoreOrder();
+        storeOrder.processOrder(true);
+    }
+} 

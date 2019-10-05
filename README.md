@@ -80,3 +80,11 @@ The bridge pattern is a design pattern used in software engineering that is mean
 abstraction from its implementation so that the two can vary independently", introduced by the 
 Gang of Four. The bridge uses encapsulation, aggregation, and can use inheritance to separate 
 responsibilities into different classes.
+
+## Template Method Pattern
+
+In object-oriented programming, the template method is one of the behavioral design patterns 
+identified by Gamma et al. in the book Design Patterns. The template method is a method in 
+a superclass, usually an abstract superclass, and defines the skeleton of an operation in terms 
+of a number of high-level steps. These steps are themselves implemented by additional helper 
+methods in the same class as the template method.
