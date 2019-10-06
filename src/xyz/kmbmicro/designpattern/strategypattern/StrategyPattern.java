@@ -3,7 +3,7 @@ package xyz.kmbmicro.designpattern.strategypattern;
 public class StrategyPattern {
     public static void main(String[] arguments) {
         // Prepare strategies
-        BillingStrategy normalStrategy    = BillingStrategy.normalStrategy();
+        BillingStrategy normalStrategy = BillingStrategy.normalStrategy();
         BillingStrategy happyHourStrategy = BillingStrategy.happyHourStrategy();
 
         Customer firstCustomer = new Customer(normalStrategy);

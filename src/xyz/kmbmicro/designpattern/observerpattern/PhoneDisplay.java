@@ -9,6 +9,6 @@ public class PhoneDisplay implements IObserver {
 
     @Override
     public void update() {
-        System.out.println("updated "+weatherStation.getTemperature());
+        System.out.println("updated " + weatherStation.getTemperature());
     }
 }

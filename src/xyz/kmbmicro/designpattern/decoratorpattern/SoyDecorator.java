@@ -7,7 +7,7 @@ public class SoyDecorator extends AddonDecorator {
 
     @Override
     String getDescription() {
-        return beverage.getDescription()+" with Soy";
+        return beverage.getDescription() + " with Soy";
     }
 
     @Override

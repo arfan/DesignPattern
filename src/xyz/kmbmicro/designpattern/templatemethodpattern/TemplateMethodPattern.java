@@ -8,4 +8,4 @@ public class TemplateMethodPattern {
         OrderProcessTemplate storeOrder = new StoreOrder();
         storeOrder.processOrder(true);
     }
-} 
+}

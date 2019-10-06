@@ -7,7 +7,7 @@ public class CaramelDecorator extends AddonDecorator {
 
     @Override
     String getDescription() {
-        return beverage.getDescription()+" with Caramel";
+        return beverage.getDescription() + " with Caramel";
     }
 
     @Override

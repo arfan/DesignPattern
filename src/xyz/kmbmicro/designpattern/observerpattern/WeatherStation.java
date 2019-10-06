@@ -18,7 +18,7 @@ public class WeatherStation implements IObservable {
 
     @Override
     public void notifyObserver() {
-        for(IObserver observer: observers) {
+        for (IObserver observer : observers) {
             observer.update();
         }
     }

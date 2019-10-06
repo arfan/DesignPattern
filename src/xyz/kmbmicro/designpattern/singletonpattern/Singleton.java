@@ -3,11 +3,7 @@ package xyz.kmbmicro.designpattern.singletonpattern;
 public class Singleton {
     static Singleton instance;
 
-    private Singleton() {}
-
-    @Override
-    public String toString(){
-        return "singleton";
+    private Singleton() {
     }
 
     public static Singleton getInstance() {
@@ -16,5 +12,10 @@ public class Singleton {
         }
 
         return instance;
+    }
+
+    @Override
+    public String toString() {
+        return "singleton";
     }
 }

@@ -11,7 +11,7 @@ class Customer {
     }
 
     public void add(int price, int quantity) {
-        this.drinks.add(this.strategy.getActPrice(price*quantity));
+        this.drinks.add(this.strategy.getActPrice(price * quantity));
     }
 
     // Payment of bill
