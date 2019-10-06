@@ -1,8 +1,8 @@
 package xyz.kmbmicro.designpattern.facadepattern;/* Facade */
 
 class ComputerFacade {
-    public static final long BOOT_ADDRESS = 0l;
-    public static final long BOOT_SECTOR = 0l;
+    public static final long BOOT_ADDRESS = 0L;
+    public static final long BOOT_SECTOR = 0L;
     public static final int SECTOR_SIZE = 0;
     private final CPU processor;
     private final Memory ram;

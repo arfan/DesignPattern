@@ -96,3 +96,10 @@ pattern describes a group of objects that is treated the same way as a single in
 type of object. The intent of a composite is to "compose" objects into tree structures to represent 
 part-whole hierarchies. Implementing the composite pattern lets clients treat individual objects 
 and compositions uniformly.
+
+## Iterator Pattern
+
+In object-oriented programming, the iterator pattern is a design pattern in which an iterator is 
+used to traverse a container and access the container's elements. The iterator pattern decouples 
+algorithms from containers; in some cases, algorithms are necessarily container-specific and thus 
+cannot be decoupled.
