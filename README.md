@@ -88,3 +88,11 @@ identified by Gamma et al. in the book Design Patterns. The template method is a
 a superclass, usually an abstract superclass, and defines the skeleton of an operation in terms 
 of a number of high-level steps. These steps are themselves implemented by additional helper 
 methods in the same class as the template method.
+
+## Composite Pattern
+
+In software engineering, the composite pattern is a partitioning design pattern. The composite 
+pattern describes a group of objects that is treated the same way as a single instance of the same 
+type of object. The intent of a composite is to "compose" objects into tree structures to represent 
+part-whole hierarchies. Implementing the composite pattern lets clients treat individual objects 
+and compositions uniformly.
